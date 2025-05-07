@@ -1,0 +1,15 @@
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\bin\Debug\net8.0\ConsoleApp_DSABeginner.exe
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\bin\Debug\net8.0\ConsoleApp_DSABeginner.deps.json
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\bin\Debug\net8.0\ConsoleApp_DSABeginner.runtimeconfig.json
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\bin\Debug\net8.0\ConsoleApp_DSABeginner.dll
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\bin\Debug\net8.0\ConsoleApp_DSABeginner.pdb
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.AssemblyInfoInputs.cache
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.AssemblyInfo.cs
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.csproj.CoreCompileInputs.cache
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.sourcelink.json
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.dll
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\refint\ConsoleApp_DSABeginner.dll
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.pdb
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ConsoleApp_DSABeginner.genruntimeconfig.cache
+C:\Users\kd496\source\repos\DSA\thekd-coder\ConsoleApp_DSABeginner\obj\Debug\net8.0\ref\ConsoleApp_DSABeginner.dll
