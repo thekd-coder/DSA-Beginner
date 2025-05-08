@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//Read 'ReadMe.md' file present in the folder which name is same as this class's name
 
 namespace ConsoleApp_DSABeginner.Beginner.CountOddEvenFromArray
 {
